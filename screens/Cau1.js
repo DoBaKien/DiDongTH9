@@ -1,4 +1,4 @@
-import {  useState } from "react";
+import { useState } from "react";
 import { Animated, StyleSheet, Text, View } from "react-native";
 
 import icon from "../assets/cat.png";

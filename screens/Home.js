@@ -9,6 +9,12 @@ function Home({ navigation }) {
           navigation.navigate("Cau1");
         }}
       />
+        <Button
+        title="Cau 2"
+        onPress={() => {
+          navigation.navigate("Cau2");
+        }}
+      />
     </View>
   );
 }
